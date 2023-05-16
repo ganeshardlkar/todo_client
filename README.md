@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-This is a full stack project made by Ganesh Ardalkar
+This is a full stack project made by Ganesh Ardalkar in temp branch.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
